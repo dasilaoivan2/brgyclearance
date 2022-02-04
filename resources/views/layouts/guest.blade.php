@@ -10,6 +10,8 @@
         <!-- Fonts -->
         <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Calibri:wght@400;600;700&display=swap">
 
+        <link rel="shortcut icon" href="<?php echo asset('css/seal1917-150x150.png'); ?>">
+
         <!-- Styles -->
         <link rel="stylesheet" href="{{ mix('css/app.css') }}">
 
